@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### I'm a 1st year/incoming 2nd year Computer Science Major at UCI
+
+I have an interest and enjoy building projects from scratch, although that may not be so common anymore. I am excited to see where the future of AI will take me!
+
+##### Checkout my [resume](https://docs.google.com/document/d/1SNT9zlfYjQnGoYwun1MF40P_h89agOEPVBMA0KBYGS0/edit?usp=sharing)!
 <!--
 **Chezplaty/Chezplaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
