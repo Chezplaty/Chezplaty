@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-### I'm a 1st year/incoming 2nd year Computer Science Major at UCI
+### Hey! I'm Mai-Linh, a 1st year/incoming 2nd year Computer Science Major at UCI
 
-I have an interest and enjoy building projects from scratch, although that may not be so common anymore. I am excited to see where the future of AI will take me!
+I got into coding through games and creative projects, and it's grown into something I enjoy doing and can see myself doing for years to come.
+
+I bake, I push through hard things, and I write code that (usually) works.
+
+Currently looking for internships — feel free to reach out!
 
 ##### Checkout my [resume](https://docs.google.com/document/d/1SNT9zlfYjQnGoYwun1MF40P_h89agOEPVBMA0KBYGS0/edit?usp=sharing)!
 <!--
