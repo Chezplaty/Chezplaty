@@ -6,7 +6,7 @@ I got into coding through games and creative projects, and it's grown into somet
 
 I bake, I push through hard things, and I write code that (usually) works.
 
-Currently looking for internships — feel free to reach out!
+Currently looking for **internship** — feel free to reach out!
 
 ##### Checkout my [resume](https://docs.google.com/document/d/1SNT9zlfYjQnGoYwun1MF40P_h89agOEPVBMA0KBYGS0/edit?usp=sharing)!
 <!--
